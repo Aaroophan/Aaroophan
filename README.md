@@ -1,12 +1,14 @@
 <!-- ==================== DYNAMIC HEADER ==================== -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F728&width=435&lines=Hi+👋+I'm+Aaroophan;Full+Stack+Developer⚡;Associate+Software+Engineer;Agile+Team+Player;Next,React,+Node,+C%23,+.NET,+SQL,+PostgreSQL;MERN+Stack+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F728&width=435&lines=Hi+👋+I'm+Aaroophan;Full+Stack+Software+Engineer;MSc+in+Computer+Science+(In+Progress);Metadata-Driven+Systems;Next.js,+React,+JavaScript/TypeScript;C%23+(.NET),+Node.js,+Python+(FastAPI),+T-SQL,+PostgreSQL,+MongoDB;Agile+Team+Player,+Blog+Writer)](https://git.io/typing-svg)
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aaroophan&style=flat-square&color=blue)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aaroophan.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://aaroophan.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aaroophan.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://aaroophan.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com/in/Aaroophan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Aaroophan)
 [![Instagram](https://img.shields.io/badge/Instagram-instagram.com/aaroophan-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/aaroophan)
-[![Medium](https://img.shields.io/badge/Medium-medium.com/@aaroophan-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@aaroophan)
+[![Medium](https://img.shields.io/badge/Medium-aaroophan.medium.com-12100E?style=flat-square&logo=medium&logoColor=white)](https://aaroophan.medium.com)
 [![Email](https://img.shields.io/badge/Email-arophn@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arophn@gmail.com)
 
 
