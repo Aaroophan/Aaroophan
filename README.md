@@ -1,72 +1,326 @@
-<!-- ==================== DYNAMIC HEADER ==================== -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F728&width=435&lines=Hi+👋+I'm+Aaroophan;Full+Stack+Software+Engineer;MSc+in+Computer+Science+(In+Progress);Metadata-Driven+Systems;Next.js,+React,+JavaScript/TypeScript;C%23+(.NET),+Node.js,+Python+(FastAPI),+T-SQL,+PostgreSQL,+MongoDB;Agile+Team+Player,+Blog+Writer)](https://git.io/typing-svg)
+<!-- ===================== GILDED PROFILE HEADER ===================== -->
 
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Aaroophan&style=flat-square&color=blue)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-aaroophan.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://aaroophan.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com/in/Aaroophan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Aaroophan)
-[![Instagram](https://img.shields.io/badge/Instagram-instagram.com/aaroophan-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/aaroophan)
-[![Medium](https://img.shields.io/badge/Medium-aaroophan.medium.com-12100E?style=flat-square&logo=medium&logoColor=white)](https://aaroophan.medium.com)
-[![Email](https://img.shields.io/badge/Email-arophn@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arophn@gmail.com)
-
-
-<!-- ==================== GPRM =============================== -->
-
-# 💫 About Me:
-
-### 🔭 I’m currently working on<br>
-
-Designing and scaling a metadata-driven admin and marketing platform using Next.js (App Router), ASP.NET Core, and SQL Server. My focus is on building highly reusable CRUD frameworks, backend-driven UI rendering, secure authentication flows (rotating tokens, 2FA), and deep-link configuration systems that allow new features and screens to be delivered with minimal code changes.<br><br>
-
-### 👯 I’m looking to collaborate on<br>
-
-Full-stack projects involving React / Next.js, .NET-based APIs, and system design, particularly products that rely on configuration over hard-coded logic. I’m especially interested in tools and platforms that reduce operational complexity through automation, metadata, and clean abstractions.<br><br>
-
-### 🤝 I’m looking for help with<br>
-
-Refining clean, scalable abstractions for large codebases, improving observability and logging in distributed systems (event pipelines, background workers), and exploring better architectural patterns for metadata-driven and permission-aware UIs.<br><br>
-
-### 🌱 I’m currently learning<br>
-
-Advanced system design and distributed systems concepts, performance optimization in React and .NET, and practical security patterns such as authentication strategies, token rotation, rate limiting, and secure webhook design for production-grade applications.<br><br>
-
-### 💬 Ask me about<br>
-
-Metadata-driven architectures, dynamic CRUD and admin frameworks, Next.js + ASP.NET Core integration, SQL stored procedure design, auth and 2FA flows, UI automation at scale, and building admin platforms that remain maintainable as they grow.<br><br>
-
-### ⚡ Fun fact<br>
-
-I enjoy turning complex, hard-coded systems into configurable frameworks the fewer pages, endpoints, and one-off features I have to write, the happier I am.<br><br>
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aaroophan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aaroophan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaroophan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aaroophan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🤖 Random Dev Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aaroophan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Aaroophan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- ==================== SNAKE ANIMATION ==================== -->
-## 🐍 Contribution Snake 
 <div align="center">
-  <img src="dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%;">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:22C55E&height=220&section=header&text=Aaroophan%20Varatharajan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Metadata-Driven%20Systems%20%7C%20AI%20Builder&descAlignY=58&descSize=16" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=I+build+metadata-driven+platforms.;Next.js+%2B+React+%2B+ASP.NET+Core+%2B+SQL.;Google+OAuth2%2C+MongoDB%2C+Redis%2C+Groq-powered+AI.;Local+LLMs%2C+AI+Agents%2C+Servers%2C+Automation.;Turning+hard-coded+systems+into+configurable+runtimes.)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=Aaroophan&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Aaroophan?style=for-the-badge&logo=github&color=22c55e&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/Aaroophan?style=for-the-badge&logo=github&color=facc15&label=STARS" />
+
+<br/><br/>
+
+<a href="https://aaroophan.dev">
+  <img src="https://img.shields.io/badge/Portfolio-aaroophan.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/Aaroophan">
+  <img src="https://img.shields.io/badge/LinkedIn-Aaroophan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Aaroophan">
+  <img src="https://img.shields.io/badge/GitHub-Aaroophan-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://medium.com/@aaroophan">
+  <img src="https://img.shields.io/badge/Medium-@aaroophan-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="mailto:arophn@gmail.com">
+  <img src="https://img.shields.io/badge/Email-arophn%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
+---
+
+## 🧠 About Me
+
+```ts
+const aaroophan = {
+  role: "Full Stack Software Engineer",
+  focus: [
+    "Metadata-driven platforms",
+    "Dynamic UI runtimes",
+    "No-code portfolio systems",
+    "Backend orchestration layers",
+    "AI-assisted products",
+    "Local LLM and agent workflows"
+  ],
+  stack: {
+    frontend: ["Next.js", "React", "TypeScript", "Redux", "Tailwind CSS", "Framer Motion", "Three.js"],
+    backend: ["ASP.NET Core", "Node.js", "FastAPI", "Express", "REST APIs"],
+    data: ["SQL Server", "PostgreSQL", "MongoDB", "Redis", "SQLite"],
+    ai: ["Groq API", "OpenAI API", "PyTorch", "Local LLMs", "AI Agents"],
+    systems: ["Docker", "RabbitMQ", "Jenkins", "Selenium", "Serilog", "OAuth2", "JWT"]
+  },
+  currentlyBuilding: "HarkDB — SQLite-backed database platform",
+  moreInfo: "https://aaroophan.dev/Aaroophan"
+}
+````
+
+I build configurable software systems where UI, content, permissions, and workflows are driven by data instead of hard-coded screens.
+My work spans full-stack engineering, admin platforms, automation, AI-enabled products, local infrastructure, and technical writing.
+
+---
+
+## 🚀 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧩 Metadata-Driven Platforms
+
+* Dynamic UI rendering from backend schemas
+* Configurable admin dashboards
+* Reusable CRUD engines
+* Permission-aware form systems
+* No-code content management flows
+
+</td>
+<td width="50%">
+
+### 🤖 AI + Local Systems
+
+* Local LLM experimentation
+* AI agents and automation
+* Groq / OpenAI API integrations
+* FastAPI-based AI services
+* Local servers and dev infrastructure
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏗️ Featured Research-Build: GildedIn
+
+<div align="center">
+
+<a href="https://github.com/Aaroophan/GildedIn">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaroophan&repo=GildedIn&theme=tokyonight&hide_border=true&border_radius=16" />
+</a>
+
+</div>
+
+**GildedIn** is a metadata-driven no-code portfolio platform that generates dynamic user portfolio sites through Next.js routes, MongoDB-backed section schemas, Google OAuth2 ownership mapping, protected dashboard editing, nested add/update/delete/reorder workflows, and user-specific Groq-powered AI chatbot context.
+
+```mermaid
+flowchart LR
+    A[Google OAuth2 Login] --> B[Users Collection]
+    B --> C[Users.PortfolioURL]
+    C --> D[MongoDB Section Documents]
+    D --> E[Dynamic Route: /Username]
+    D --> F[Protected Dashboard Editor]
+    F --> G[Add / Update / Delete / Reorder]
+    G --> D
+    E --> H[Public Portfolio + AI Chatbot]
+```
+
+**Core stack:** Next.js App Router, TypeScript, React, Redux, MongoDB, Redis, Google OAuth2, Groq API, Tailwind CSS, Framer Motion, Three.js.
+
+---
+
+## 🧰 Engineering Stack
+
+### Frontend Runtime
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,redux,tailwind,materialui,threejs,framer,vite" />
+</p>
+
+### Backend + API Layer
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,fastapi,python,php,java,bash,powershell" />
+</p>
+
+### Data + Messaging
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,firebase,supabase" />
+</p>
+
+### DevOps + Tooling
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,vercel,netlify,git,github,postman,visualstudio,vscode" />
+</p>
+
+### AI / ML / Creative
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,figma,ps,ai,ae,unity" />
+</p>
+
+---
+
+## ⚙️ What I Build
+
+| Area                     | Things I Like Building                                                        |
+| ------------------------ | ----------------------------------------------------------------------------- |
+| **Platform Engineering** | Metadata-driven systems, configurable dashboards, schema-powered UI runtimes  |
+| **Frontend Systems**     | Next.js apps, reusable component engines, animated admin UX, WYSIWYG builders |
+| **Backend Systems**      | ASP.NET Core APIs, stored-procedure orchestration, auth flows, webhooks       |
+| **Automation**           | Selenium tooling, CLI apps, QA pipelines, evidence-rich test artifacts        |
+| **AI Systems**           | Local LLM workflows, Groq/OpenAI integrations, agents, NLP apps               |
+| **Products**             | Developer tools, no-code apps, portfolio systems, internal business tools     |
+
+---
+
+## 📌 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/Aaroophan/GildedIn">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaroophan&repo=GildedIn&theme=radical&hide_border=true&border_radius=16" />
+</a>
+<a href="https://github.com/Aaroophan/HarkBase">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaroophan&repo=HarkBase&theme=radical&hide_border=true&border_radius=16" />
+</a>
+
+<a href="https://github.com/Aaroophan/Mend-Tale-Game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaroophan&repo=Mend-Tale-Game&theme=tokyonight&hide_border=true&border_radius=16" />
+</a>
+<a href="https://github.com/Aaroophan/OneWorkLoc">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaroophan&repo=OneWorkLoc&theme=tokyonight&hide_border=true&border_radius=16" />
+</a>
+
+<a href="https://github.com/Aaroophan/Grid-ify">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaroophan&repo=Grid-ify&theme=github_dark&hide_border=true&border_radius=16" />
+</a>
+<a href="https://github.com/Aaroophan/SVG-ify">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaroophan&repo=SVG-ify&theme=github_dark&hide_border=true&border_radius=16" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aaroophan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&rank_icon=github&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Aaroophan&theme=tokyonight&hide_border=true&border_radius=16&mode=weekly" />
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaroophan&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&langs_count=10&hide=html,css" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aaroophan&theme=tokyonight&utcOffset=5.5" />
+
+</div>
+
+> Note: GitHub stats cards mainly reflect public GitHub data unless you self-host them with a GitHub token.
+
+---
+
+## 🔥 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaroophan&theme=tokyo-night&hide_border=true&radius=16&area=true&custom_title=Aaroophan's%20Contribution%20Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aaroophan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+
+</div>
+
+---
+
+## 📈 Profile Summary
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aaroophan&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aaroophan&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aaroophan&theme=tokyonight" />
+
+<br/>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aaroophan&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repositories
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Aaroophan&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaroophan/Aaroophan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaroophan/Aaroophan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aaroophan/Aaroophan/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 📝 Latest Writing
+
+<div align="center">
+
+<a href="https://medium.com/@aaroophan">
+  <img src="https://img.shields.io/badge/Read%20my%20technical%20blogs-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://aaroophan.dev/Aaroophan">
+  <img src="https://img.shields.io/badge/More%20about%20me-aaroophan.dev%2FAaroophan-22C55E?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🤖 Random Dev Joke
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+
+</div>
+
+---
+
+## 🎮 Outside Code
+
+```txt
+AAA games   | movies and series   | local servers   | local AI agents
+technical blogs   | freelance web dev   | software startup ideas
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:0EA5E9,100:0F172A&height=120&section=footer" />
+
+</div>
